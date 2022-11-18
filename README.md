@@ -5,10 +5,10 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Ukraine State University of Infrastructure and Technologies
+- :school: I am a `4th year student` at Faculty of Computers & Informatics of the Ukraine State University of Infrastructure and Technologies
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1vwEbwhX_KKrPtYd3EhNRAgvuIbMnjPoY?usp=sharing).
+- :thinking: I’m currently open for: `an internship or a new job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1vwEbwhX_KKrPtYd3EhNRAgvuIbMnjPoY?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
