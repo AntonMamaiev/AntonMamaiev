@@ -15,17 +15,23 @@
 
 ## 🛠️ My Skills
 
-### 👉 Homework in programming languages
+### 👉 Games
 
 <p align="center">  
   &emsp;
-  <a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
+  <a href= "https://github.com/AntonMamaiev/Unity-City-Rider" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
   &emsp;
-  <a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+  <a href= "https://github.com/AntonMamaiev/Snake-Csharp-WindowsForms" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+
+### 👉 Homework
+
+<p align="center">   
   &emsp;
-  <a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+  <a href= "https://github.com/AntonMamaiev/Cpp-Homework" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
   &emsp;
-  <a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>      
+  <a href= "https://github.com/AntonMamaiev/Csharp-Homework" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+  &emsp;
+  <a href= "https://github.com/AntonMamaiev/HTML-Homework" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>      
 </p>
 
  ### 👉 Software & Tools
